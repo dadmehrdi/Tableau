@@ -1,3 +1,3 @@
 # My Tableau Dashboard
 
-You can view my Tableau dashboard [Book1](https://public.tableau.com/app/profile/dadmehr.didgar/viz/Book1_17175279491720/Dashboard1).
+You can view my Book1 Tableau dashboard [here](https://public.tableau.com/app/profile/dadmehr.didgar/viz/Book1_17175279491720/Dashboard1).
